@@ -32,19 +32,20 @@ The tutorials explain how to handle exceptions in Dart, including using try-catc
 
 ## Getting Started
 
-To get started with these tutorials, you need to have Dart installed on your machine. If you don't have Dart installed, follow the [official installation guide](https://dart.dev/get-dart).
+To get started with these tutorials, you need to have Dart installed on your machine. If you don't have Dart installed, follow the [official installation guide](https://docs.flutter.dev/get-started/install).
 
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/dart-tutorials.git
-
+   ```
 2. Navigate to the project directory:
-  ```sh
-  cd dart-tutorials
-
+    ```sh
+    cd dart-tutorials
+    ```
 3. Run the examples:
-  ```sh
-  dart run example_file.dart
+    ```sh
+    dart run file_name.dart
+    ```
 
 ### Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
