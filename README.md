@@ -10,9 +10,7 @@ Welcome to my Dart Tutorials repository! This repository contains my learnings a
   - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
   - [Exception Handling](#exception-handling)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
